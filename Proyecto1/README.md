@@ -63,7 +63,7 @@ print("DELETING USER... ")
 bd.delete_user("Aguirre")
 ```
 
-**Ingrantes**
+**Integrantes**
  - Santiago Aguirre Delgado
  - Ricardo Gottheil Florez
  - Juan Diego Restrepo 
